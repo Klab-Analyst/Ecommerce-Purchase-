@@ -5,11 +5,7 @@
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
-- [Data Cleaning](#data-cleaning)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Data Analysis Expression](#data-analysis-expression)
-- [Results](#results)
-- [Recommendation](#recommendation)
 
 
   ### Project Overview
@@ -38,4 +34,8 @@ The Primary dataset used for this analysis is the "Ecommerce.csv" file.
 13. How many people purchase during the AM and how many people purchase during PM?
 14. How many people have a credit card that expires in 2020?
 15. What are the top 5 most popular email providers (e.g. gmail.com, yahoo.com, etc...)
+16. Top 5 Credit Card Providers
+17. AM vs PM counts
+18. Top 5 most Popular Language
+19. Purchase made in AM vd PM
 
